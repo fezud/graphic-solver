@@ -1,0 +1,3 @@
+class Colors:
+    CHAMPAGNE_PINK = (252, 228, 216)
+    LIGHT_SKY_BLUE = (131, 201, 244)
